@@ -13,7 +13,7 @@
 		"node": ">=8"
 	},
 	"scripts": {
-		"test": "nyc ava",
+		"test": "yarn build && nyc ava",
 		"build": "tsc"
 	},
 	"files": [
