@@ -5,4 +5,4 @@ const easyFork = (command: string) => {
 	return          fork(`node_modules/.bin/${splitCommand[0]}`, splitCommand.slice(1));
 };
 
-export default easyFork;
+export = easyFork;
