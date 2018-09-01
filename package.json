@@ -1,6 +1,6 @@
 {
 	"name": "easy-fork",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Easyly fork node process to run scripts concurrently",
 	"license": "MIT",
 	"repository": "https://github.com/hoishin/easy-fork",
