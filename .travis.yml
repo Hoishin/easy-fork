@@ -3,7 +3,7 @@ node_js:
   - '10'
   - '8'
 
-install: yarn install --network-timeout 10000000
+cache: yarn
 
 after_script:
   - './node_modules/.bin/nyc report --reporter=text-lcov > coverage.lcov && ./node_modules/.bin/codecov'
