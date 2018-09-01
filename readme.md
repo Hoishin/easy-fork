@@ -1,4 +1,4 @@
-# easy-fork [![Build Status](https://travis-ci.org/Hoishin/easy-fork.svg?branch=master)](https://travis-ci.org/Hoishin/easy-fork) [![codecov](https://codecov.io/gh/Hoishin/easy-fork/badge.svg?branch=master)](https://codecov.io/gh/Hoishin/easy-fork?branch=master)
+# easy-fork [![Build Status](https://travis-ci.com/Hoishin/easy-fork.svg?branch=master)](https://travis-ci.com/Hoishin/easy-fork) [![codecov](https://codecov.io/gh/Hoishin/easy-fork/badge.svg?branch=master)](https://codecov.io/gh/Hoishin/easy-fork?branch=master)
 
 > Easily fork node process to run scripts concurrently
 
